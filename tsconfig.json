@@ -3,6 +3,7 @@
   "compilerOptions": {
     "outDir": "build",
     "target": "ES6",
-    "lib": ["ES6","DOM"] // 실행환경 정의.. => 자동완성도 사용가능하게 함
+    "lib": ["ES6","DOM"], // 실행환경 정의.. => 자동완성도 사용가능하게 함
+    "strict": true,
   }
 }
